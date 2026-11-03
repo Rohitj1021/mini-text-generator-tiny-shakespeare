@@ -37,3 +37,5 @@ Python, PyTorch, NumPy, Matplotlib, Google Colab.
 
 ## Author
 Rohit Jagtap
+Pratik Pawade
+Sagar Desale
