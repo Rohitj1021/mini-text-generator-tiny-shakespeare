@@ -36,6 +36,6 @@ A lightweight text-generation model trained on the Tiny Shakespeare dataset usin
 Python, PyTorch, NumPy, Matplotlib, Google Colab.
 
 ## Author
-Rohit Jagtap
-Pratik Pawade
-Sagar Desale
+-Rohit Jagtap
+-Pratik Pawade
+-Sagar Desale
